@@ -2,7 +2,10 @@
 # You will automatically get updates for all versions starting with "1.".
 rlbot==1.*
 rlbot_gui
-rlbottraining
+rlbottraining~=0.6.1
 
 # This will cause pip to auto-upgrade and stop scaring people with warning messages
 pip
+
+dataclasses~=0.6
+carball~=0.7.5
